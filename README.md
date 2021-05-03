@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 - 🔧 Technology stack:
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
+[![zguolee's github stats](https://github-readme-stats.vercel.app/api?username=zguolee&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zguolee)
