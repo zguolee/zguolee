@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 <div class="half">
-  <a href="https://github.com/zguolee"><img src="https://github-readme-stats.vercel.app/api?username=zguolee&count_private=true&show_icons=true&theme=vue" height="200"></img></a>
-  <a href="https://github.com/zguoleeL"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zguolee&hide=Objective-C,shell,swift&theme=vue" height="200"></img></a>
+  <a href="https://github.com/zguolee"><img src="https://github-readme-stats.vercel.app/api?username=zguolee&count_private=true&show_icons=true&theme=vue-dark" height="200"></img></a>
+  <a href="https://github.com/zguoleeL"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zguolee&hide=Objective-C,shell,swift&theme=vue-dark" height="200"></img></a>
 </div>
 
