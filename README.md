@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
-- 🌱 I’m currently learning [Vue.js](https://github.com/vuejs/vue-next)
+  
 - 💬 Ask me about anything [here](https://github.com/zguolee/zguolee/issues)
 - 📫 How to reach me: [zguolee@foxmail.com](zguolee@foxmail.com)
 - 📚 Programming language: 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-- 🔧 Technology stack:
-  ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-[![zguolee's github stats](https://github-readme-stats.vercel.app/api?username=zguolee&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/zguolee)
+<div class="half">
+  <a href="https://github.com/zguolee"><img src="https://github-readme-stats.vercel.app/api?username=zguolee&count_private=true&show_icons=true&theme=vue" height="200"></img></a>
+  <a href="https://github.com/zguoleeL"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zguolee&hide=Objective-C,shell,swift&theme=vue" height="200"></img></a>
+</div>
+
